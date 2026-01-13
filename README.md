@@ -6,5 +6,5 @@ dans le cadre de l'utilisation d'un carnet de chant spécifique pour notre égli
 
 ## deux éléments ##
 - la liste des chants au format json
-- les liens vers youtube ou autre au format json
+- les liens vers youtube ou autre au format json (pas encore réalisé)
 
